@@ -9,3 +9,15 @@ Magai https://magai.co/#features - Your ChatGPT-Powered Super Assistant. Transfo
 https://www.neurochat.ai/ - Advanced Healthcare Experience with Generative AI. Improve neurology and psychiatry care by creating a digital ecosystem that is globally accessible.
 
 # AI Art
+
+# SDK
+
+## C#
+
+## Python
+Anthropic - https://github.com/anthropics/anthropic-sdk-python
+
+## Javascript / Typescript
+Anthropic - https://github.com/anthropics/anthropic-sdk-typescript
+
+## iOS
