@@ -12,8 +12,6 @@ ChatGPT - https://openai.com/blog/chatgpt/ ChatGPT is a conversational AI chatbo
 # AI Medical
 neurochat - https://www.neurochat.ai/  Advanced Healthcare Experience with Generative AI. Improve neurology and psychiatry care by creating a digital ecosystem that is globally accessible.
 
-# AI Art
-
 # SDK
 
 ## C#
@@ -112,27 +110,7 @@ Notion AI - https://www.notion.so/product/ai Notion AI is a text generator and e
 
 TLDR This - https://tldrthis.com/ TLDR This summarizes any text or article using AI.
 
-# Text Editing
-
-# not categorized
-Here are the text lines converted from the JSON:
-
-
-
-
-LyricStudio - https://lyricstudio.net/ LyricStudio helps generate lyrics for songs using AI.
-
 Shortly - https://www.shortlyai.com/ Shortly continues your writing using GPT-3.
-
-INK Suite - https://inkforall.com/ INK combines an AI writer, SEO optimizer, and content planner.
-
-Copy.ai - https://www.copy.ai/tools Copy.ai generates marketing copy like ads, email, social media posts.
-
-WordTune - https://www.wordtune.com/ Wordtune rewrites your text in different styles using AI.
-
-Jasper - https://www.jasper.ai/ Jasper is an AI writing tool for marketers using GPT-3.
-
-Frase - https://www.frase.io/ Frase optimizes content for SEO using AI.
 
 Sudowrite - https://www.sudowrite.com/ Sudowrite helps rewrite paragraphs in different styles.
 
@@ -152,6 +130,24 @@ Writesonic - https://writesonic.com/ Writesonic writes long-form content in 4 st
 
 Scribbl - https://www.scribbl.co/ Scribbl transcribes your online meetings automatically.
 
+## Marketing / Social Media
+INK Suite - https://inkforall.com/ INK combines an AI writer, SEO optimizer, and content planner.
+
+Copy.ai - https://www.copy.ai/tools Copy.ai generates marketing copy like ads, email, social media posts.
+
+Jasper - https://www.jasper.ai/ Jasper is an AI writing tool for marketers using GPT-3.
+
+Frase - https://www.frase.io/ Frase optimizes content for SEO using AI.
+
+# Text Editing
+WordTune - https://www.wordtune.com/ Wordtune rewrites your text in different styles using AI.
+
+# Music Generator
+LyricStudio - https://lyricstudio.net/ LyricStudio helps generate lyrics for songs using AI.
+
+# Music Editing
+
+# Audio Generation
 Jukebox - https://openai.com/blog/jukebox/ Jukebox is an AI song generator from OpenAI.
 
 AIVA - https://www.aiva.ai/ AIVA creates background music for videos and other use cases.
@@ -165,6 +161,22 @@ Loudly‘s AI music generator - https://www.loudly.com/ai-music-generator Loudly
 Murf - https://murf.ai/ Murf generates voice from text or enhances existing voice recordings.
 
 Cleanvoice - https://cleanvoice.ai/ Cleanvoice removes filler sounds from audio using AI.
+
+
+# Audio Editing
+
+# not categorized
+Here are the text lines converted from the JSON:
+
+
+
+
+
+
+
+
+
+
 
 FakeYou - https://fakeyou.com/ FakeYou lets you make characters say your words using AI.
 
