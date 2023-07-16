@@ -13,6 +13,9 @@ https://www.neurochat.ai/ - Advanced Healthcare Experience with Generative AI. I
 # SDK
 
 ## C#
+Anthropic - https://github.com/tghamm/Anthropic.SDK Anthropic.SDK is an unnofficial C# client designed for interacting with the Claude AI API. This powerful interface simplifies the integration of the Claude AI into your C# applications. It targets netstandard2.0, and .net6.0.
+
+Anthropic - https://github.com/tinonetic/anthropic.net Anthropic.NET is a community-written .NET SDK that gives you access to Anthropic's safety-first language model APIs
 
 ## Python
 Anthropic - https://github.com/anthropics/anthropic-sdk-python
@@ -21,3 +24,6 @@ Anthropic - https://github.com/anthropics/anthropic-sdk-python
 Anthropic - https://github.com/anthropics/anthropic-sdk-typescript
 
 ## iOS
+
+# UI
+Anthropic - https://github.com/ezetech/anthropic-gui Claude ft. Aleph1 is an open-source user interface for Anthropic's Claude AI. We developed this enhanced UI to offer features that are currently not available or problematic in the existing UI, such as model selection, chat saving, and improved chat editing functionality. Our goal is to provide an intuitive, bug-free experience while interacting with Claude to its fullest capability.
