@@ -1,5 +1,8 @@
 # List of AI Tools and Websites
 
+# Directory of AI tools
+FUTUREPEDIA - https://www.futurepedia.io/ THE LARGEST AI TOOLS DIRECTORY
+
 # Content Editing
 Magai https://magai.co/#features - Your ChatGPT-Powered Super Assistant. Transform the way you generate and refine content with Magai’s revolutionary AI tools and intuitive Chat interface powered by ChatGPT + GPT-4.
 
