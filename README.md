@@ -33,3 +33,6 @@ Anthropic - https://github.com/ezetech/anthropic-gui Claude ft. Aleph1 is an ope
 
 # Prompts
 FlowGPT - https://flowgpt.com/  FIND & USE THE BEST PROMPTS
+
+# AI Blogs
+feedspot - https://blog.feedspot.com/ai_blogs/ The best Artificial Intelligence blogs from thousands of blogs on the web and ranked by traffic, social media followers & freshness.
