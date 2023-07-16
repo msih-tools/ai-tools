@@ -6,5 +6,6 @@ Magai https://magai.co/#features - Your ChatGPT-Powered Super Assistant. Transfo
 # AI Chat
 
 # AI Medical
+https://www.neurochat.ai/ - Advanced Healthcare Experience with Generative AI. Improve neurology and psychiatry care by creating a digital ecosystem that is globally accessible.
 
 # AI Art
