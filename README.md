@@ -98,6 +98,10 @@ Anthropic - https://github.com/anthropics/anthropic-sdk-typescript
 
 Anthropic - https://github.com/anthropics/anthropic-sdk-python
 
+# P Sampling
+
+https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277
+
 # Text Editing
 
 WordTune - https://www.wordtune.com/ Wordtune rewrites your text in different styles using AI.
