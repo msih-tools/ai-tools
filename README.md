@@ -168,6 +168,8 @@ Munch - https://www.getmunch.com/ Munch utilizes advanced generative AI to extra
 
 Pictory - https://pictory.ai/ Pictory transforms long-form text content into branded videos effortlessly.
 
+videos.social - https://videos.social/?utm_source=msih-tools-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d videos.social turns blogs, PDFs, and prompts into editable faceless videos.
+
 Powtoon - https://www.powtoon.com/ Powtoon is an online tool for creating engaging animated video presentations.
 
 Synthesia - https://www.synthesia.io/ Synthesia turn text into speech in AI video generation.
