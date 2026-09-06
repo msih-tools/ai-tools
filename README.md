@@ -208,6 +208,8 @@ Jitter - https://jitter.video/ Jitter creates animated designs easily using AI.
 
 Kickresume - https://www.kickresume.com/en/ai-resume-writer/ Kickresume generates resume sections and cover letters.
 
+ResumeAI - https://withresumeai.com/ AI resume builder with free ATS checks (3/day anonymous, 10/day free account) and the open State of ATS 2026 dataset (738 employers; Workday 37.9%).
+
 LALAL.AI - https://www.lalal.ai/ LALAL.AI extracts and isolates sounds from audio and video.
 
 Landbot - https://landbot.io/ Landbot builds chatbots without coding.
